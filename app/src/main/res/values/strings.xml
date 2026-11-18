@@ -511,6 +511,8 @@
     <string name="settings_sharing">Sharing</string>
     <string name="settings_hidden_explanation">Hidden files start with a dot and are not shown by default.</string>
     <string name="settings_share_explanation">Share sends a file to another app exactly as it is. It is off by default. When it is on, a Share button appears when only files are selected.</string>
+    <string name="changelog_101_title">1.0.1</string>
+    <string name="changelog_101">Fixed a crash on the first start when the app asks for the notification permission.</string>
     <string name="changelog_100_title">1.0.0</string>
     <string name="changelog_100">Eerste release. Alles uit de 0.0.x versies zit erin. Nextcloud, FTP en SMB, App Manager, Opslag, Media, ingebouwde viewers en spelers, teksteditor, prullenbak, zip en het Nooklin ontwerp zijn onderdeel van 1.0.0.</string>
     <string name="changelog_0019_title">0.0.19</string>

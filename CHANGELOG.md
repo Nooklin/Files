@@ -2,6 +2,10 @@
 
 All notable changes to Nooklin Files, newest first. Each GitHub release has its own notes with the APK hashes.
 
+## Version 1.0.1
+
+- Fixed a crash on the first start when the app asks for the notification permission.
+
 ## Version 1.0.0
 
 First release. It includes everything built during the 0.0.x versions:

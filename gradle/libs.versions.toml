@@ -9,6 +9,8 @@ composeBom = "2026.02.01"
 datastore = "1.1.1"
 # Same version as Nooklin Photos (App Lock). androidx.biometric has stayed in alpha for years
 biometric = "1.2.0-alpha05"
+# biometric brings fragment 1.2.5, which rejects the request code of a permission launcher and crashes the app
+fragment = "1.8.5"
 # HttpURLConnection on Android cannot send PROPFIND, MKCOL or MOVE, OkHttp can
 okhttp = "4.12.0"
 # Zip files with a password (AES). java.util.zip cannot read or write them
@@ -37,6 +39,7 @@ okhttp = { group = "com.squareup.okhttp3", name = "okhttp", version.ref = "okhtt
 commons-net = { group = "commons-net", name = "commons-net", version.ref = "commonsNet" }
 smbj = { group = "com.hierynomus", name = "smbj", version.ref = "smbj" }
 zip4j = { group = "net.lingala.zip4j", name = "zip4j", version.ref = "zip4j" }
+androidx-fragment = { group = "androidx.fragment", name = "fragment", version.ref = "fragment" }
 androidx-biometric = { group = "androidx.biometric", name = "biometric", version.ref = "biometric" }
 androidx-datastore-preferences = { group = "androidx.datastore", name = "datastore-preferences", version.ref = "datastore" }
 

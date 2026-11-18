@@ -11,6 +11,7 @@ import org.nooklin.files.R
 
 // Newest first. One text per version, one line per change.
 private val versions = listOf(
+    R.string.changelog_101_title to R.string.changelog_101,
     R.string.changelog_100_title to R.string.changelog_100,
     R.string.changelog_0019_title to R.string.changelog_0019,
     R.string.changelog_0018_title to R.string.changelog_0018,

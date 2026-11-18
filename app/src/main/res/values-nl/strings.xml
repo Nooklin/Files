@@ -511,6 +511,8 @@
     <string name="settings_sharing">Delen</string>
     <string name="settings_hidden_explanation">Verborgen bestanden beginnen met een punt en worden standaard niet getoond.</string>
     <string name="settings_share_explanation">Delen stuurt een bestand ongewijzigd naar een andere app. Het staat standaard uit. Als het aan staat, verschijnt een knop Delen wanneer alleen bestanden geselecteerd zijn.</string>
+    <string name="changelog_101_title">1.0.1</string>
+    <string name="changelog_101">Crash opgelost bij de eerste start, toen de app om de meldingenpermissie vroeg.</string>
     <string name="changelog_100_title">1.0.0</string>
     <string name="changelog_100">Eerste release. Alles uit de 0.0.x versies zit erin. Nextcloud, FTP en SMB, App Manager, Opslag, Media, ingebouwde viewers en spelers, teksteditor, prullenbak, zip en het Nooklin ontwerp zijn onderdeel van 1.0.0.</string>
     <string name="changelog_0019_title">0.0.19</string>

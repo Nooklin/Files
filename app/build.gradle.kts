@@ -22,8 +22,8 @@ android {
         applicationId = "org.nooklin.files"
         minSdk = 33
         targetSdk = 36
-        versionCode = 20
-        versionName = "1.0.0"
+        versionCode = 21
+        versionName = "1.0.1"
     }
 
     signingConfigs {
@@ -68,6 +68,7 @@ dependencies {
     implementation(libs.androidx.lifecycle.runtime.compose)
     implementation(libs.androidx.compose.material.icons.extended)
     implementation(libs.androidx.datastore.preferences)
+    implementation(libs.androidx.fragment)
     implementation(libs.androidx.biometric)
     implementation(libs.okhttp)
     implementation(libs.zip4j)
