@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A rust folder with a cream sheet in front, in the colors of the other Nooklin icons -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#C3532D"
+        android:pathData="M33.8,30h12.2a4,4 0 0 1 2.8,1.2l4.2,4.2a4,4 0 0 0 2.8,1.2h18a6,6 0 0 1 6,6v28a6,6 0 0 1 -6,6h-40a6,6 0 0 1 -6,-6v-34.6a6,6 0 0 1 6,-6z" />
+    <path
+        android:fillColor="#FDF2DF"
+        android:pathData="M42,46h32a6,6 0 0 1 6,6v20a6,6 0 0 1 -6,6h-32a6,6 0 0 1 -6,-6v-20a6,6 0 0 1 6,-6z" />
+    <path
+        android:fillColor="#3C261D"
+        android:pathData="M42,56h26v4h-26z M42,65h16v4h-16z" />
+</vector>

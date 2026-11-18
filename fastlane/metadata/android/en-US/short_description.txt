@@ -1,0 +1,1 @@
+Open-source file manager with Nextcloud, FTP and SMB.

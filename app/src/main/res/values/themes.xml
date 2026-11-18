@@ -1,0 +1,8 @@
+<resources>
+    <!-- Minimal launch theme. Compose owns the real UI theming via NooklinTheme, see ui/theme/DesignSystem.kt.
+         The splash screen can only follow the system light or dark setting, not the theme chosen in the app. -->
+    <style name="Theme.NooklinFiles" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowSplashScreenBackground">#FFFBFE</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+    </style>
+</resources>
