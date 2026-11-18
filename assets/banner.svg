@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Nooklin Files">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A1F1D"/>
+      <stop offset="1" stop-color="#3B2A25"/>
+    </linearGradient>
+    <clipPath id="icon"><rect x="0" y="0" width="160" height="160" rx="36"/></clipPath>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <g transform="translate(120 70)" clip-path="url(#icon)">
+    <g transform="scale(1.4815)">
+      <rect width="108" height="108" fill="#E5B02B"/>
+      <path fill="#C3532D" d="M33.8,30h12.2a4,4 0 0 1 2.8,1.2l4.2,4.2a4,4 0 0 0 2.8,1.2h18a6,6 0 0 1 6,6v28a6,6 0 0 1 -6,6h-40a6,6 0 0 1 -6,-6v-34.6a6,6 0 0 1 6,-6z"/>
+      <path fill="#FDF2DF" d="M42,46h32a6,6 0 0 1 6,6v20a6,6 0 0 1 -6,6h-32a6,6 0 0 1 -6,-6v-20a6,6 0 0 1 6,-6z"/>
+      <path fill="#3C261D" d="M42,56h26v4h-26z M42,65h16v4h-16z"/>
+    </g>
+  </g>
+  <text x="330" y="150" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="86" font-weight="700" fill="#FFF4DC">Files</text>
+  <text x="332" y="198" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" fill="#F2B84B">Nooklin · phone, Nextcloud, FTP and SMB</text>
+  <text x="332" y="240" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#FFF4DC" fill-opacity="0.65">No Play Services · no telemetry · no ads · open source</text>
+</svg>
